@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Optimized CHNRoutes - Reversed China IPv4 CIDRs
-# Last Updated: 2025-06-25T12:48:15.703Z
-# Size: 11517
+# Last Updated: 2025-06-25T13:36:00.586Z
+# Size: 11516
 # License: CC BY-SA 2.0 + MIT
 # Homepage: https://github.com/SukkaW/chnroutes2-optimized
 # GitHub: https://github.com/SukkaW/chnroutes2-optimized
@@ -7003,7 +7003,6 @@
 124.15.0.0/16
 124.18.0.0/15
 124.20.0.0/16
-124.21.0.0/18
 124.21.128.0/17
 124.22.0.0/15
 124.24.0.0/14
