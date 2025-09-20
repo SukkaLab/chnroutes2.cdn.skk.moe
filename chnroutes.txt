@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Optimized CHNRoutes - China IPv4 CIDRs
-# Last Updated: 2025-09-20T03:28:48.798Z
+# Last Updated: 2025-09-20T04:24:11.296Z
 # Size: 3912
 # License: CC BY-SA 2.0 + MIT
 # Homepage: https://github.com/SukkaW/chnroutes2-optimized
